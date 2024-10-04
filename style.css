@@ -1,0 +1,30 @@
+body {
+  background:darkred;
+  text-align: center;
+ border: solid;
+  border-radius: 20px;
+  border-color:cornsilk;
+
+}
+h1 {
+  font-weight: bold;
+  font-size: 35px;
+}
+p{
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+  height: 200px;
+  float: center;
+  border-radius: 50px;
+  border: solid;
+  border-width: 2px;
+  border-color: cornsilk;
+
+}
+.index{
+  color:goldenrod;
+}
+i 
+}
